@@ -12,4 +12,4 @@ progameertalen:
 - mySQL
 - html, css
 
-  Ik zou graag willen werken met Nikhil Ijpma, maar hij wilt zijn unity versie niet op 2022 zetten
+  Ik zou graag willen werken met NKIjpma, maar hij wilt zijn unity versie niet op 2022 zetten
