@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **DannyMulder/DannyMulder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,10 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+- 
 Hallo daar 👋
-<!-- **DannyMulder/DannyMulder** is een ✨ _speciaal_ ✨ repository, omdat het `README.md`-bestand (dit bestand) op je GitHub-profiel wordt weergegeven. 
+
+**DannyMulder/DannyMulder** is een ✨ _speciaal_ ✨ repository, omdat het `README.md`-bestand (dit bestand) op je GitHub-profiel wordt weergegeven. 
 
 Hier zijn wat ideeën om je op weg te helpen:
 - 🔭 Ik ben momenteel bezig met ... 
@@ -27,4 +27,3 @@ Hier zijn wat ideeën om je op weg te helpen:
 - 📫 Zo kun je me bereiken: ... 
 - 😄 Voornaamwoorden: ... 
 - ⚡ Leuk weetje: ... 
--->
