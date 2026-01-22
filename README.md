@@ -1,5 +1,6 @@
-Hello there 👋
-My name is Danny Mulder, I am 16 years old and currently studying Software Development. Besides my studies, I really enjoy working with Unity.
+# Hello there 👋
+
+## My name is Danny Mulder, I am 16 years old and currently studying Software Development. Besides my studies, I really enjoy working with Unity.
 I am working on creating a game, and every day I learn something new.
 
 Programming languages:
