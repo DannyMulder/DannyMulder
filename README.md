@@ -11,7 +11,7 @@ Programming languages:
 
 # Hallo daar 👋
 
-## Mijn naam is Danny Mulder, ik ben 16 jaar en doe momenteel de opleiding: Software Develpor. Naast de opleiding vind ik unity ook erg leuk.
+## Mijn naam is Danny Mulder, ik ben 16 jaar en doe momenteel de opleiding: Software Developer. Naast de opleiding vind ik unity ook erg leuk.
 Ik ben bezig met een game maken, elke dag leer ik weer wat nieuws.
 
 progameertalen:
