@@ -15,7 +15,7 @@ Programming languages:
 Ik ben bezig met een game maken, elke dag leer ik weer wat nieuws.
 
 progameertalen:
-- python
-- c#
-- mySQL
-- html, css
+- Python
+- C#
+- MySQL
+- HTML, CSS
