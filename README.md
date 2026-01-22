@@ -1,5 +1,12 @@
-# Hi there 👋
+Hello there 👋
+My name is Danny Mulder, I am 16 years old and currently studying Software Development. Besides my studies, I really enjoy working with Unity.
+I am working on creating a game, and every day I learn something new.
 
+Programming languages:
+- Python
+- C#
+- MySQL
+- HTML, CSS
 
 # Hallo daar 👋
 
@@ -11,5 +18,3 @@ progameertalen:
 - c#
 - mySQL
 - html, css
-
-  Ik zou graag willen werken met NKIjpma, maar hij wilt zijn unity versie niet op 2022 zetten
